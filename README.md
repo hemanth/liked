@@ -6,3 +6,4 @@
 - [JS features](https://jsfeatures.in/) 
 - [Node Module Of The Week - NMOTW](https://nmotw.in/) 
 - [Hemanth.HM's paws on tech.](https://h3manth.com/) 
+- [Flow: Mapping an object — Medium](https://medium.com/) 
