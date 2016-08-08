@@ -8,3 +8,4 @@
 - [Hemanth.HM's paws on tech.](https://h3manth.com/) 
 - [Flow: Mapping an object — Medium](https://medium.com/) 
 - [The Principles Of Life That Everyone Knows, But Only A Few Follow — The Mission — Medium](https://medium.com/the-mission/the-principles-of-life-that-everyone-knows-but-only-a-few-follow-51588060903c#.bjljpun4n) 
+- [TLS Everywhere, not https: URIs - Design Issues](https://www.w3.org/DesignIssues/Security-NotTheS.html) 
