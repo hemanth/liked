@@ -10,3 +10,6 @@
 - [The Principles Of Life That Everyone Knows, But Only A Few Follow — The Mission — Medium](https://medium.com/the-mission/the-principles-of-life-that-everyone-knows-but-only-a-few-follow-51588060903c#.bjljpun4n) 
 - [TLS Everywhere, not https: URIs - Design Issues](https://www.w3.org/DesignIssues/Security-NotTheS.html) 
 - [The Marvellously Mysterious JavaScript Maybe Monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/) 
+
+### August 9, 2016
+- [Yahoo View: Watch TV Free Online | Yahoo View](http://view.yahoo.com/) 
