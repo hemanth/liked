@@ -13,3 +13,6 @@
 
 ### August 9, 2016
 - [Yahoo View: Watch TV Free Online | Yahoo View](http://view.yahoo.com/) 
+
+### August 11, 2016
+- [Issue 632823 - chromium - Service Worker still runs when JS is disabled - Monorail](https://bugs.chromium.org/p/chromium/issues/detail?id=632823) 
