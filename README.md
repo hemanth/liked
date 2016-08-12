@@ -16,3 +16,6 @@
 
 ### August 11, 2016
 - [Issue 632823 - chromium - Service Worker still runs when JS is disabled - Monorail](https://bugs.chromium.org/p/chromium/issues/detail?id=632823) 
+
+### August 12, 2016
+- [What's the fastest way to create shadow DOM](https://rawgit.com/ebidel/e9bcb6fc88b40fc26ed9e768f7d19961/raw/template_vs_innerhtml.html) 
