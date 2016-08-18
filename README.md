@@ -23,3 +23,4 @@
 ### August 18, 2016
 - [vimgifs](https://vimgifs.com/?ref=producthunt) 
 - [z68cjzp051gx.jpg (1280×853)](https://i.redd.it/z68cjzp051gx.jpg) 
+- [Animating like you just don’t care with Element.animate ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/) 
