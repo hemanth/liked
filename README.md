@@ -19,3 +19,6 @@
 
 ### August 12, 2016
 - [What's the fastest way to create shadow DOM](https://rawgit.com/ebidel/e9bcb6fc88b40fc26ed9e768f7d19961/raw/template_vs_innerhtml.html) 
+
+### August 18, 2016
+- [vimgifs](https://vimgifs.com/?ref=producthunt) 
