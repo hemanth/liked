@@ -25,3 +25,6 @@
 - [z68cjzp051gx.jpg (1280×853)](https://i.redd.it/z68cjzp051gx.jpg) 
 - [Animating like you just don’t care with Element.animate ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/) 
 - [Animating like you just don’t care with Element.animate ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/) 
+
+### August 19, 2016
+- [McDonald’s Theory — Medium](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d#.humy4wf5v) 
