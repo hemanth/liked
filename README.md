@@ -28,3 +28,4 @@
 
 ### August 19, 2016
 - [McDonald’s Theory — Medium](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d#.humy4wf5v) 
+- [initialsession: remove curl and wget aliases by bagder · Pull Request #1901 · PowerShell/PowerShell](https://github.com/PowerShell/PowerShell/pull/1901) 
