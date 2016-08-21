@@ -33,3 +33,6 @@
 
 ### August 20, 2016
 - [口](https://www.candyjapan.com/%E5%8F%A3) 
+
+### August 21, 2016
+- [Hatnote Listen to Wikipedia](http://listen.hatnote.com/) 
