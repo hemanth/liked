@@ -36,3 +36,6 @@
 
 ### August 21, 2016
 - [Hatnote Listen to Wikipedia](http://listen.hatnote.com/) 
+
+### August 24, 2016
+- [When Big O Fools Ya](https://jackmott.github.io/programming/2016/08/20/when-bigo-foolsya.html) 
