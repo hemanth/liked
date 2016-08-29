@@ -42,3 +42,6 @@
 
 ### August 25, 2016
 - [David Abney: The UPS boss who rose from the bottom rung - BBC News](http://www.bbc.com/news/business-37087358) 
+
+### August 29, 2016
+- [On Finding Your Purpose: An Extraordinary Letter by Hunter S. Thompson](http://tranquilmonkey.com/hunter-s-thompsons-extraordinary-letter-on-finding-your-purpose/) 
