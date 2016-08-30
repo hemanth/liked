@@ -48,3 +48,4 @@
 
 ### August 30, 2016
 - [Academic Torrents](http://academictorrents.com/) 
+- [Simple Request Breakdowns](https://analytics.wikimedia.org/dashboards/browsers/#all-sites-by-os-and-browser/os-browser-family-and-major-hierarchical-view) 
