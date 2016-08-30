@@ -45,3 +45,6 @@
 
 ### August 29, 2016
 - [On Finding Your Purpose: An Extraordinary Letter by Hunter S. Thompson](http://tranquilmonkey.com/hunter-s-thompsons-extraordinary-letter-on-finding-your-purpose/) 
+
+### August 30, 2016
+- [Academic Torrents](http://academictorrents.com/) 
