@@ -49,3 +49,6 @@
 ### August 30, 2016
 - [Academic Torrents](http://academictorrents.com/) 
 - [Simple Request Breakdowns](https://analytics.wikimedia.org/dashboards/browsers/#all-sites-by-os-and-browser/os-browser-family-and-major-hierarchical-view) 
+
+### August 31, 2016
+- [400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs? – Medium](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.qzeoe7v1h) 
