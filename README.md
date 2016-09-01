@@ -54,3 +54,6 @@
 - [400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs? – Medium](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.qzeoe7v1h) 
 - [First Images from Wildlife Photographer of the Year 2016 Revealed -](http://www.biosphereonline.com/2016/08/31/first-images-wildlife-photographer-year-2016-revealed/) 
 - [First Images from Wildlife Photographer of the Year 2016 Revealed -](http://www.biosphereonline.com/2016/08/31/first-images-wildlife-photographer-year-2016-revealed/) 
+
+### September 1, 2016
+- [The way out of burnout | 1843](https://www.1843magazine.com/body-mind/the-daily/the-way-out-of-burnout?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-26) 
