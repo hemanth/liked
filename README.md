@@ -57,3 +57,6 @@
 
 ### September 1, 2016
 - [The way out of burnout | 1843](https://www.1843magazine.com/body-mind/the-daily/the-way-out-of-burnout?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-26) 
+
+### September 6, 2016
+- [Cognitive bias cheat sheet – Better Humans](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.h0dktvwtz) 
