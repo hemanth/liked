@@ -61,3 +61,6 @@
 ### September 6, 2016
 - [Cognitive bias cheat sheet – Better Humans](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.h0dktvwtz) 
 - [Cognitive bias cheat sheet – Better Humans](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.h0dktvwtz) 
+
+### September 8, 2016
+- [Play all stories - Donald Knuth - Web of Stories](http://www.webofstories.com/playAll/donald.knuth) 
