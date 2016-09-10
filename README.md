@@ -64,3 +64,6 @@
 
 ### September 8, 2016
 - [Play all stories - Donald Knuth - Web of Stories](http://www.webofstories.com/playAll/donald.knuth) 
+
+### September 10, 2016
+- [archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-2-pdf/k-2-c1039-ALGOL-B205.pdf](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-2-pdf/k-2-c1039-ALGOL-B205.pdf) 
