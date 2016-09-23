@@ -67,3 +67,6 @@
 
 ### September 10, 2016
 - [archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-2-pdf/k-2-c1039-ALGOL-B205.pdf](http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-2-pdf/k-2-c1039-ALGOL-B205.pdf) 
+
+### September 23, 2016
+- [/dev/lawyer The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) 
