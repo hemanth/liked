@@ -70,3 +70,6 @@
 
 ### September 23, 2016
 - [/dev/lawyer The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) 
+
+### September 24, 2016
+- [Commit Logs From Last Night](http://www.commitlogsfromlastnight.com/) 
