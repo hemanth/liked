@@ -73,3 +73,4 @@
 
 ### September 24, 2016
 - [Commit Logs From Last Night](http://www.commitlogsfromlastnight.com/) 
+- [The Artificial Intelligence Revolution: Part 1 - Wait But Why](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) 
