@@ -74,3 +74,6 @@
 ### September 24, 2016
 - [Commit Logs From Last Night](http://www.commitlogsfromlastnight.com/) 
 - [The Artificial Intelligence Revolution: Part 1 - Wait But Why](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) 
+
+### September 25, 2016
+- [The decline of Stack Overflow](https://hackernoon.com/the-decline-of-stack-overflow-7cb69faa575d#.q2a4ltrc9) 
