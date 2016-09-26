@@ -77,3 +77,6 @@
 
 ### September 25, 2016
 - [The decline of Stack Overflow](https://hackernoon.com/the-decline-of-stack-overflow-7cb69faa575d#.q2a4ltrc9) 
+
+### September 26, 2016
+- [Redesigning Chrome desktop – Google Design – Medium](https://medium.com/@KounterB/redesigning-chrome-desktop-769aeb5ab987#.k7s7kulyj) 
