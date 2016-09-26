@@ -80,3 +80,4 @@
 
 ### September 26, 2016
 - [Redesigning Chrome desktop – Google Design – Medium](https://medium.com/@KounterB/redesigning-chrome-desktop-769aeb5ab987#.k7s7kulyj) 
+- [Why Bitcoin apps are hard, and are Ethereum apps easier? – Medium](https://medium.com/@bedeho/why-bitcoin-apps-are-hard-and-are-ethereum-apps-easier-7bbeccab4136#.yhoxbah8t) 
