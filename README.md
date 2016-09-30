@@ -84,3 +84,6 @@
 
 ### September 29, 2016
 - [Give it five minutes – Signal v. Noise](https://signalvnoise.com/posts/3124-give-it-five-minutes) 
+
+### September 30, 2016
+- [Follow up: TC39 meets Node.js Modules – Medium](https://medium.com/@awbjs/follow-up-tc39-meets-node-js-modules-76fdea278370#.eu6ude7m2) 
