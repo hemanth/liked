@@ -90,3 +90,4 @@
 
 ### October 3, 2016
 - [GitHub Audio](https://github.audio/) 
+- [A list of all Android permissions...](https://gist.github.com/Arinerron/1bcaadc7b1cbeae77de0263f4e15156f) 
