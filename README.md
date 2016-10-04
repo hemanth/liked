@@ -91,3 +91,6 @@
 ### October 3, 2016
 - [GitHub Audio](https://github.audio/) 
 - [A list of all Android permissions...](https://gist.github.com/Arinerron/1bcaadc7b1cbeae77de0263f4e15156f) 
+
+### October 4, 2016
+- [Too Many Tools and Frameworks](http://mrmrs.io/writing/2015/07/27/too-many-tools/) 
