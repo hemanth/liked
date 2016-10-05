@@ -97,3 +97,4 @@
 
 ### October 5, 2016
 - [Flexbox Patterns](http://www.flexboxpatterns.com/home) 
+- [Can we stop bad-mouthing CSS in developer talks, please? | Christian Heilmann](https://www.christianheilmann.com/2016/10/05/can-we-stop-bad-mouthing-css-in-developer-talks-please/) 
