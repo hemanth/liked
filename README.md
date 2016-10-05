@@ -94,3 +94,6 @@
 
 ### October 4, 2016
 - [Too Many Tools and Frameworks](http://mrmrs.io/writing/2015/07/27/too-many-tools/) 
+
+### October 5, 2016
+- [Flexbox Patterns](http://www.flexboxpatterns.com/home) 
