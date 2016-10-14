@@ -99,3 +99,6 @@
 - [Flexbox Patterns](http://www.flexboxpatterns.com/home) 
 - [Can we stop bad-mouthing CSS in developer talks, please? | Christian Heilmann](https://www.christianheilmann.com/2016/10/05/can-we-stop-bad-mouthing-css-in-developer-talks-please/) 
 - [Can we stop bad-mouthing CSS in developer talks, please? | Christian Heilmann](https://www.christianheilmann.com/2016/10/05/can-we-stop-bad-mouthing-css-in-developer-talks-please/) 
+
+### October 14, 2016
+- [Fuck You Startup World – Medium](https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e#.upcjtut4b) 
