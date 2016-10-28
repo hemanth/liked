@@ -102,3 +102,6 @@
 
 ### October 14, 2016
 - [Fuck You Startup World – Medium](https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e#.upcjtut4b) 
+
+### October 28, 2016
+- [An Array of Pointers vs. a Multidimensional Array « null program](http://nullprogram.com/blog/2016/10/27/) 
