@@ -108,3 +108,4 @@
 
 ### November 26, 2016
 - [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/) 
+- [Image Effects with CSS](http://bennettfeely.com/image-effects/) 
