@@ -105,3 +105,6 @@
 
 ### October 28, 2016
 - [An Array of Pointers vs. a Multidimensional Array « null program](http://nullprogram.com/blog/2016/10/27/) 
+
+### November 26, 2016
+- [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/) 
