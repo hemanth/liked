@@ -112,3 +112,6 @@
 
 ### November 29, 2016
 - [CyberChef](https://gchq.github.io/CyberChef/) 
+
+### December 11, 2016
+- [The Practical Dev](https://dev.to/) 
