@@ -115,3 +115,6 @@
 
 ### December 11, 2016
 - [The Practical Dev](https://dev.to/) 
+
+### December 14, 2016
+- [crontab.guru - the cron schedule expression editor](https://crontab.guru/) 
