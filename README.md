@@ -119,3 +119,6 @@
 ### December 14, 2016
 - [crontab.guru - the cron schedule expression editor](https://crontab.guru/) 
 - [crontab.guru - the cron schedule expression editor](https://crontab.guru/) 
+
+### December 18, 2016
+- [God's Number is 20](http://cube20.org/) 
