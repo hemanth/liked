@@ -123,3 +123,6 @@
 ### December 18, 2016
 - [God's Number is 20](http://cube20.org/) 
 - [Radio Garden](http://radio.garden/) 
+
+### December 19, 2016
+- [Dataplicity: Remotely control your Raspberry Pi](https://www.dataplicity.com/) 
