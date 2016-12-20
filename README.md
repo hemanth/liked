@@ -126,3 +126,6 @@
 
 ### December 19, 2016
 - [Dataplicity: Remotely control your Raspberry Pi](https://www.dataplicity.com/) 
+
+### December 20, 2016
+- [okasaki.pdf](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) 
