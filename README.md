@@ -129,3 +129,6 @@
 
 ### December 20, 2016
 - [okasaki.pdf](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) 
+
+### December 21, 2016
+- [The Cryptopals Crypto Challenges](http://cryptopals.com/) 
