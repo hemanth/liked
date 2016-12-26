@@ -135,3 +135,4 @@
 
 ### December 26, 2016
 - [Why Intelligent People Can't find Happiness - The Minds Journal](http://themindsjournal.com/intelligence-happiness/) 
+- [Why Intelligent People Can't find Happiness - The Minds Journal](http://themindsjournal.com/intelligence-happiness/) 
