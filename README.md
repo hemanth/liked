@@ -132,3 +132,6 @@
 
 ### December 21, 2016
 - [The Cryptopals Crypto Challenges](http://cryptopals.com/) 
+
+### December 26, 2016
+- [Why Intelligent People Can't find Happiness - The Minds Journal](http://themindsjournal.com/intelligence-happiness/) 
