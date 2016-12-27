@@ -136,3 +136,6 @@
 ### December 26, 2016
 - [Why Intelligent People Can't find Happiness - The Minds Journal](http://themindsjournal.com/intelligence-happiness/) 
 - [Why Intelligent People Can't find Happiness - The Minds Journal](http://themindsjournal.com/intelligence-happiness/) 
+
+### December 27, 2016
+- [AST explorer](https://astexplorer.net/) 
