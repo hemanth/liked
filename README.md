@@ -145,3 +145,6 @@
 
 ### January 2, 2017
 - [Playground](http://sap.github.io/chevrotain/playground/) 
+
+### January 4, 2017
+- [PatentsExpiringToday.com - Find patents that expired today](http://patentsexpiringtoday.com/) 
