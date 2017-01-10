@@ -148,3 +148,6 @@
 
 ### January 4, 2017
 - [PatentsExpiringToday.com - Find patents that expired today](http://patentsexpiringtoday.com/) 
+
+### January 10, 2017
+- [Overleaf: Real-time Collaborative Writing and Publishing Tools with Integrated PDF Preview](https://www.overleaf.com/) 
