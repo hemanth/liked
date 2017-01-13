@@ -152,3 +152,6 @@
 ### January 10, 2017
 - [Overleaf: Real-time Collaborative Writing and Publishing Tools with Integrated PDF Preview](https://www.overleaf.com/) 
 - [Overleaf: Real-time Collaborative Writing and Publishing Tools with Integrated PDF Preview](https://www.overleaf.com/) 
+
+### January 13, 2017
+- [Eta Playground](http://eta-lang.org/playground.html#) 
