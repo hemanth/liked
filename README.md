@@ -155,3 +155,6 @@
 
 ### January 13, 2017
 - [Eta Playground](http://eta-lang.org/playground.html#) 
+
+### February 1, 2017
+- [CSS Snapshot 2017](https://www.w3.org/TR/2017/NOTE-css-2017-20170131/) 
