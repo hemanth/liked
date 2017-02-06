@@ -24,7 +24,6 @@
 - [vimgifs](https://vimgifs.com/?ref=producthunt) 
 - [z68cjzp051gx.jpg (1280×853)](https://i.redd.it/z68cjzp051gx.jpg) 
 - [Animating like you just don’t care with Element.animate ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/) 
-- [Animating like you just don’t care with Element.animate ★ Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2016/08/animating-like-you-just-dont-care-with-element-animate/) 
 
 ### August 19, 2016
 - [McDonald’s Theory — Medium](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d#.humy4wf5v) 
@@ -53,13 +52,11 @@
 ### August 31, 2016
 - [400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs? – Medium](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.qzeoe7v1h) 
 - [First Images from Wildlife Photographer of the Year 2016 Revealed -](http://www.biosphereonline.com/2016/08/31/first-images-wildlife-photographer-year-2016-revealed/) 
-- [First Images from Wildlife Photographer of the Year 2016 Revealed -](http://www.biosphereonline.com/2016/08/31/first-images-wildlife-photographer-year-2016-revealed/) 
 
 ### September 1, 2016
 - [The way out of burnout | 1843](https://www.1843magazine.com/body-mind/the-daily/the-way-out-of-burnout?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-26) 
 
 ### September 6, 2016
-- [Cognitive bias cheat sheet – Better Humans](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.h0dktvwtz) 
 - [Cognitive bias cheat sheet – Better Humans](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.h0dktvwtz) 
 
 ### September 8, 2016
@@ -98,7 +95,6 @@
 ### October 5, 2016
 - [Flexbox Patterns](http://www.flexboxpatterns.com/home) 
 - [Can we stop bad-mouthing CSS in developer talks, please? | Christian Heilmann](https://www.christianheilmann.com/2016/10/05/can-we-stop-bad-mouthing-css-in-developer-talks-please/) 
-- [Can we stop bad-mouthing CSS in developer talks, please? | Christian Heilmann](https://www.christianheilmann.com/2016/10/05/can-we-stop-bad-mouthing-css-in-developer-talks-please/) 
 
 ### October 14, 2016
 - [Fuck You Startup World – Medium](https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e#.upcjtut4b) 
@@ -118,7 +114,6 @@
 
 ### December 14, 2016
 - [crontab.guru - the cron schedule expression editor](https://crontab.guru/) 
-- [crontab.guru - the cron schedule expression editor](https://crontab.guru/) 
 
 ### December 18, 2016
 - [God's Number is 20](http://cube20.org/) 
@@ -135,7 +130,6 @@
 
 ### December 26, 2016
 - [Why Intelligent People Can't find Happiness - The Minds Journal](http://themindsjournal.com/intelligence-happiness/) 
-- [Why Intelligent People Can't find Happiness - The Minds Journal](http://themindsjournal.com/intelligence-happiness/) 
 
 ### December 27, 2016
 - [AST explorer](https://astexplorer.net/) 
@@ -150,7 +144,6 @@
 - [PatentsExpiringToday.com - Find patents that expired today](http://patentsexpiringtoday.com/) 
 
 ### January 10, 2017
-- [Overleaf: Real-time Collaborative Writing and Publishing Tools with Integrated PDF Preview](https://www.overleaf.com/) 
 - [Overleaf: Real-time Collaborative Writing and Publishing Tools with Integrated PDF Preview](https://www.overleaf.com/) 
 
 ### January 13, 2017
