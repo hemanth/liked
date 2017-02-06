@@ -158,3 +158,6 @@
 
 ### February 1, 2017
 - [CSS Snapshot 2017](https://www.w3.org/TR/2017/NOTE-css-2017-20170131/) 
+
+### February 6, 2017
+- [The Cryptopals Crypto Challenges](http://cryptopals.com/) 
