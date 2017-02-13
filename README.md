@@ -158,3 +158,6 @@
 ### February 8, 2017
 - [JS.coach](https://js.coach/) 
 - [Fluid Paint](http://david.li/paint/) 
+
+### February 13, 2017
+- [Monoids on Steroids |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/) 
