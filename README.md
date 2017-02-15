@@ -165,3 +165,4 @@
 ### February 15, 2017
 - [Open Source Guide - A community guide for open source creators.](https://opensource.guide/) 
 - [Interneting Is Hard | Web Development Tutorials For Complete Beginners](https://internetingishard.com/) 
+- [HTML Reference - A free guide to all HTML elements and attributes.](http://htmlreference.io/) 
