@@ -161,3 +161,6 @@
 
 ### February 13, 2017
 - [Monoids on Steroids |   Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/) 
+
+### February 15, 2017
+- [Open Source Guide - A community guide for open source creators.](https://opensource.guide/) 
