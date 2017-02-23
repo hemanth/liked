@@ -169,3 +169,4 @@
 
 ### February 23, 2017
 - [Image-to-Image Demo - Affine Layer](http://affinelayer.com/pixsrv/index.html?ref=producthunt) 
+- [API Design Guide  |  Cloud APIs  |  Google Cloud Platform](https://cloud.google.com/apis/design/) 
