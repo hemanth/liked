@@ -176,3 +176,6 @@
 
 ### March 1, 2017
 - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) 
+
+### March 14, 2017
+- [Pi-hole™: A black hole for Internet advertisements – curl -sSL https://install.pi-hole.net | bash](https://pi-hole.net/?v=c86ee0d9d7ed) 
