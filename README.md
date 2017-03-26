@@ -183,3 +183,6 @@
 ### March 24, 2017
 - [I got tired of commoditized content for entrepreneurs. Here’s what I started watching instead.](https://blog.yalabot.com/i-got-sick-of-commoditized-content-for-entrepreneurs-heres-what-i-started-watching-instead-cdf9a5b28652#.5hneti4lj) 
 - [I got tired of commoditized content for entrepreneurs. Here’s what I started watching instead.](https://blog.yalabot.com/i-got-sick-of-commoditized-content-for-entrepreneurs-heres-what-i-started-watching-instead-cdf9a5b28652#.5hneti4lj) 
+
+### March 26, 2017
+- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/) 
