@@ -187,3 +187,6 @@
 ### March 26, 2017
 - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/) 
 - [Haskell Concepts in One Sentence](https://torchhound.github.io/posts/haskellOneSentence.html) 
+
+### March 29, 2017
+- [Projects – Featured – opensource.google.com](https://opensource.google.com/projects/explore/featured) 
