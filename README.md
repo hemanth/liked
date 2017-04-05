@@ -194,3 +194,6 @@
 ### March 30, 2017
 - [HTML5 Security Cheatsheet](https://html5sec.org/) 
 - [HTML5 Security Cheatsheet](https://html5sec.org/) 
+
+### April 5, 2017
+- [xg - eyes gaze warping 2](http://alteredqualia.com/xg/examples/eyes_gaze2.html) 
