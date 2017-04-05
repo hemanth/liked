@@ -197,3 +197,4 @@
 
 ### April 5, 2017
 - [xg - eyes gaze warping 2](http://alteredqualia.com/xg/examples/eyes_gaze2.html) 
+- [ZeroNet: Decentralized websites using Bitcoin crypto and the BitTorrent network](https://zeronet.io/en) 
