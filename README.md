@@ -207,3 +207,6 @@
 - [What Can I Use Now](https://whatcaniuse.now.sh/?spec=%3E+1%25%2C+last+2+versions%2C+Firefox+ESR&support%5By%5D=on&support%5Ba%5D=on&support%5Bx%5D=on) 
 - [What Can I Use Now](https://whatcaniuse.now.sh/?spec=%3E+1%25%2C+last+2+versions%2C+Firefox+ESR&support%5By%5D=on&support%5Ba%5D=on&support%5Bx%5D=on) 
 - [Foreign exchange rates and currency conversion JSON API](http://fixer.io/) 
+
+### April 10, 2017
+- [Play.ht | Listen to the web knowledge one article at a time](https://play.ht/tags/top) 
