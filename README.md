@@ -213,3 +213,4 @@
 
 ### April 11, 2017
 - [HARVARD THINKS IT’S FOUND THE NEXT EINSTEIN — AND SHE’S 23 | Guy Delbaen | Pulse | LinkedIn](https://www.linkedin.com/pulse/harvard-thinks-its-found-next-einstein-shes-23-guy-delbaen) 
+- [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0) 
