@@ -221,3 +221,6 @@
 
 ### April 13, 2017
 - [React Cheat Sheet](https://reactcheatsheet.com/) 
+
+### April 22, 2017
+- [Contributor-ninja - help open-source projects - js](https://contributor.ninja/) 
