@@ -228,3 +228,6 @@
 
 ### April 23, 2017
 - [Animista](http://animista.net/?ref=producthunt) 
+
+### April 26, 2017
+- [Reqres - A hosted REST-API ready to respond to your AJAX requests](https://reqres.in/) 
